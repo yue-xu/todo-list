@@ -1,0 +1,31 @@
+body {
+    background-color: #ebebeb;
+    font-family: arial;
+    font-size: 18;
+}
+
+h1{
+    text-align:center;
+}
+
+input{
+    width:320px;
+}
+
+select{
+    width:80;
+}
+
+.screen{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.taskName{
+    width:300px;
+}
+
+/*tr{
+    border: 2px solid black;
+}*/
